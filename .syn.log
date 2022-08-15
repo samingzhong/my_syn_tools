@@ -5,3 +5,16 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-15 20:50:10] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 9fadad2] 自动同步(push)[at 2022-08-15 20:50:10]
+ 1 file changed, 7 insertions(+)
+ create mode 100644 .syn.log
+remote: 
+remote: To create a merge request for master, visit:        
+remote:   https://gitlab.ttyuyin.com/zhongxm/syn_bash/-/merge_requests/new?merge_request%5Bsource_branch%5D=master        
+remote: 
+To gitlab.ttyuyin.com:zhongxm/syn_bash.git
+   14d3cb0..9fadad2  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-15 20:50:10] ⏫⏫⏫⏫⏫ ----------------
+
