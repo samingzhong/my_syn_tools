@@ -100,3 +100,10 @@ To github.com:samingzhong/my_syn_tools.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-17 20:50:13] ⏫⏫⏫⏫⏫ ----------------
 
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-18 18:09:46] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
