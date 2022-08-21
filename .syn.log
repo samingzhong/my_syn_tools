@@ -165,3 +165,600 @@ exit_if_target_dir_not_exit...
 git stash push...
 fatal: No pathspec was given. Which files should I remove?
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-17 20:50:12] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 37fb016] 自动同步(push)[at 2022-07-17 20:50:13]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   0674c14..37fb016  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-17 20:50:16] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-17 21:30:09] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-18 00:31:27] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master b73db89] 自动同步(push)[at 2022-07-18 00:31:27]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   25e711e..b73db89  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-18 00:31:32] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-18 11:33:27] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-18 20:50:09] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 9bda77c] 自动同步(push)[at 2022-07-18 20:50:09]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   09e13f8..9bda77c  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-18 20:50:13] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-18 21:34:54] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-19 00:31:27] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 7e68ed8] 自动同步(push)[at 2022-07-19 00:31:27]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   9487400..7e68ed8  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-19 00:31:33] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-19 11:23:12] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-19 20:50:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master a583477] 自动同步(push)[at 2022-07-19 20:50:10]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   710f7f1..a583477  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-19 20:50:14] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-19 21:32:25] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-20 00:31:34] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master cb23d5b] 自动同步(push)[at 2022-07-20 00:31:34]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   8374481..cb23d5b  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-20 00:31:39] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-20 16:42:06] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-20 20:50:12] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 1c555ff] 自动同步(push)[at 2022-07-20 20:50:12]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   063a05e..1c555ff  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-20 20:50:17] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-20 21:30:10] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-21 00:30:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 2b9789b] 自动同步(push)[at 2022-07-21 00:30:10]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   6542bd5..2b9789b  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-21 00:30:14] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-21 11:44:24] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-21 20:50:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 2831fad] 自动同步(push)[at 2022-07-21 20:50:10]
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To github.com:samingzhong/bash_syn_tools.git
+   4215325..2831fad  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-21 20:50:14] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< HEAD
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-21 21:30:10] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-22 00:31:25] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 258ce34] 自动同步(push)[at 2022-07-22 00:31:25]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   667c5d8..258ce34  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-22 00:31:30] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-24 00:30:22] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 07b6799] 自动同步(push)[at 2022-07-24 00:30:22]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   d883162..07b6799  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-24 00:30:27] ⏫⏫⏫⏫⏫ ----------------
+=======
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-25 20:50:11] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 5ffb295] 自动同步(push)[at 2022-07-25 20:50:11]
+ 4 files changed, 398 insertions(+), 7 deletions(-)
+ create mode 100755 cocoapods/podUpdate_cocoapods.sh
+ create mode 100755 cocoapods/podUpdate_cocoapods_ttc_mirror_repo.sh
+ rename cocoapods/{podUpdate.sh => podUpdate_ttc_mirror_repo.sh} (75%)
+To github.com:samingzhong/bash_syn_tools.git
+ + c93a019...5ffb295 master -> master (forced update)
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-25 20:50:16] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-26 09:00:12] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-26 20:50:11] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 28b96b6] 自动同步(push)[at 2022-07-26 20:50:11]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   ad614df..28b96b6  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-26 20:50:15] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-27 09:00:08] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-27 20:50:12] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master b6572a5] 自动同步(push)[at 2022-07-27 20:50:12]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   f1ae61d..b6572a5  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-27 20:50:15] ⏫⏫⏫⏫⏫ ----------------
+>>>>>>> a54ac371bac85add265aa9813588093ba5e7f5a2
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-28 00:30:13] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 6f87732] 自动同步(push)[at 2022-07-28 00:30:14]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   3382855..6f87732  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-28 00:30:18] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+<<<<<<< Updated upstream
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-28 11:23:10] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-28 20:50:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master d4d1bc3] 自动同步(push)[at 2022-07-28 20:50:10]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   12a8cd6..d4d1bc3  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-28 20:50:14] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-28 21:30:11] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+<<<<<<< HEAD
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-29 11:31:36] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-30 20:50:13] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 5d42241] 自动同步(push)[at 2022-07-30 20:50:14]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   3a51399..5d42241  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-30 20:50:18] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-31 20:58:39] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master efbfc51] 自动同步(push)[at 2022-07-31 20:58:39]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   00a3e0c..efbfc51  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-31 20:58:43] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-01 11:54:10] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-01 20:50:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 815d28c] 自动同步(push)[at 2022-08-01 20:50:10]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+ + 730a91e...815d28c master -> master (forced update)
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-01 20:50:15] ⏫⏫⏫⏫⏫ ----------------
+=======
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-01 00:30:14] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 22cd4de] 自动同步(push)[at 2022-08-01 00:30:14]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+ + 3ba4198...22cd4de master -> master (forced update)
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-01 00:30:19] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-02 00:30:10] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 81945a3] 自动同步(push)[at 2022-08-02 00:30:10]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+ + 8225881...81945a3 master -> master (forced update)
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-02 00:30:14] ⏫⏫⏫⏫⏫ ----------------
+>>>>>>> bf721036e0854222e887e482635f5337ec6de829
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-02 20:56:48] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 269503d] 自动同步(push)[at 2022-08-02 20:56:48]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   d22a1cf..269503d  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-02 20:56:52] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+<<<<<<< Updated upstream
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-02 21:32:53] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-03 00:31:25] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 69434f2] 自动同步(push)[at 2022-08-03 00:31:26]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   1bafcb0..69434f2  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-03 00:31:33] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-03 11:27:23] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-03 20:50:11] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 22cbf47] 自动同步(push)[at 2022-08-03 20:50:11]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   6cefd4f..22cbf47  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-03 20:50:15] ⏫⏫⏫⏫⏫ ----------------
+
+<<<<<<< Updated upstream
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-03 21:30:09] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-04 00:34:08] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master e2a12a6] 自动同步(push)[at 2022-08-04 00:34:08]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   d7408cb..e2a12a6  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-04 00:34:13] ⏫⏫⏫⏫⏫ ----------------
+
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-04 11:59:14] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-04 20:50:11] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/.my_syn_tools
+fatal: No pathspec was given. Which files should I remove?
+[master 4d8e2eb] 自动同步(push)[at 2022-08-04 20:50:11]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/bash_syn_tools.git
+   7865401..4d8e2eb  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/.my_syn_tools ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-04 20:50:15] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/.my_syn_tools
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/.my_syn_tools 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-05 11:10:09] 🔻🔻🔻🔻 ----------------
+git stash push...
+fatal: No pathspec was given. Which files should I remove?
+>>>>>>> Stashed changes
