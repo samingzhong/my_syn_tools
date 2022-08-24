@@ -761,4 +761,7 @@ exit_if_target_dir_not_exit...
 ---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-08-05 11:10:09] 🔻🔻🔻🔻 ----------------
 git stash push...
 fatal: No pathspec was given. Which files should I remove?
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
