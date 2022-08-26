@@ -763,6 +763,9 @@ git stash push...
 fatal: No pathspec was given. Which files should I remove?
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
